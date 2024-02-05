@@ -1,0 +1,4 @@
+#Filter out files
+*.in
+*.out
+*.pyc
